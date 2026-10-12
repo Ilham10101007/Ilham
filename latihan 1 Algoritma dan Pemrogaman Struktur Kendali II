@@ -1,0 +1,7 @@
+#Muhammad Ilham Ramadhan
+#065002600006
+#Algoritma dan Pemrogaman s- Struktur Kendali II (Control Structure II)
+for baris in range(7, 0, -1):
+    for kolom in range(baris):
+        print(baris, end="")
+    print()
